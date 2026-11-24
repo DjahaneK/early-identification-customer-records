@@ -32,3 +32,9 @@ The results suggest that indicators of customer relocation and contact-detail ac
 
 Although the analysis was conducted using synthetic data, the findings demonstrate how data-driven techniques can be applied to identify characteristics associated with customer record inaccuracies. Financial institutions may benefit from applying similar analytical approaches to real customer data to support data quality management, strengthen Know Your Customer (KYC) processes and proactively address potential customer record issues.
 
+# Project Files
+
+## Google Colab Notebook
+
+https://github.com/DjahaneK/early-identification-customer-records/blob/main/Early_Identification_of_Incorrect_Customer_Records.ipynb
+
