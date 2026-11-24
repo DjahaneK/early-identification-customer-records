@@ -10,3 +10,14 @@ This project investigates whether machine learning techniques can assist financi
 Indicators of customer relocation and contact-detail accuracy demonstrated the strongest associations with failed identity verification outcomes.
 
 Banks seeking to improve customer record accuracy may benefit from focusing on customers whose circumstances indicate potential address or contact information changes.
+
+# Project Visualisations
+
+![Alt Text](correlation-matrix.png)
+
+![Alt Text](confusion-matrix.png)
+
+![Alt Text](coefficients-table.png)
+
+![Alt Text](classification-report.png)
+
